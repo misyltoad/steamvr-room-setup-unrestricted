@@ -8,7 +8,9 @@ ___
 
 Have you got a VR head set only to find you don't have enough room for room scale? Then this is the random dll to download from a GitHub repo for you!
 
-Download and place ``Assembly-CSharp.dll`` in ``C:\Program Files (x86)\Steam\steamapps\common\SteamVR\tools\steamvr_room_setup\win64\steamvr_room_setup_Data\Managed`` and overwrite it. Now, your SteamVR Room Setup will not arbitrarily complain that you can't use that $1000+ VR head set the way you want to anymore.
+Download and place ``Assembly-CSharp.dll`` in ``C:\Program Files (x86)\Steam\steamapps\common\SteamVR\tools\steamvr_room_setup\win64\steamvr_room_setup_Data\Managed`` and overwrite it.
+
+Now, your SteamVR Room Setup will not arbitrarily complain that you can't use that $1000+ VR head set the way you want to anymore.
 
 Enjoy! :)
 
